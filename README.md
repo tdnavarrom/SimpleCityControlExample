@@ -6,4 +6,6 @@ And has a park that only turns on and off leds.
 
 The Android App controls all of the above lights.
 
+The zip folder is the original Android Studio Project, for you to use it, replace the CityControl/app/google-services.json file with the one Firebase gives you when creating a project.
+
 This is just a simple example for IOT with Android Studio, Firebase and Raspberry Pi.
